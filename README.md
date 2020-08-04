@@ -1,1 +1,3 @@
-# shapez.io-Mod_loader_and_dev_kit
+# shapez.io Mod Loader and Development Kit
+
+THIS MOD LOADER & DEV KIT IS UNDER CONSTRUCTION. EXPECT TO NOT SEE ANYTHING EXCEPT THE MAIN GAME.
